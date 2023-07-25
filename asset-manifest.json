@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dypc-canteen/static/css/main.5be39098.css",
+    "main.js": "/dypc-canteen/static/js/main.6f965386.js",
+    "static/media/back-3.jpg": "/dypc-canteen/static/media/back-3.512302c6cf896e6e4daf.jpg",
+    "static/media/pic_profile.jpg": "/dypc-canteen/static/media/pic_profile.1a8f442db408ed6fdb48.jpg",
+    "static/media/sweta-profile.jpg": "/dypc-canteen/static/media/sweta-profile.141926044439b99bbc99.jpg",
+    "static/media/Team.png": "/dypc-canteen/static/media/Team.42134860ae4c58e3bd8d.png",
+    "static/media/Printer.png": "/dypc-canteen/static/media/Printer.09681e0aa98d05b28936.png",
+    "static/media/Linkedin.png": "/dypc-canteen/static/media/Linkedin.6ad6a2a824e3d0059faa.png",
+    "static/media/Github.png": "/dypc-canteen/static/media/Github.05f6c17b8cd04c28456f.png",
+    "index.html": "/dypc-canteen/index.html",
+    "main.5be39098.css.map": "/dypc-canteen/static/css/main.5be39098.css.map",
+    "main.6f965386.js.map": "/dypc-canteen/static/js/main.6f965386.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be39098.css",
+    "static/js/main.6f965386.js"
+  ]
+}
